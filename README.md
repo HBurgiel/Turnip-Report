@@ -12,6 +12,8 @@ There are very few actual turnip recipes in the book. The title dates back to th
 
 All of my recipes are inspired by other recipes. I've tried to cite sources where I can. A notable exception is my college room-mate's ex-boyfriend's mother's recipe book. If you see a credit like "J's mother", that's probably where the recipe came from.
 
+At present, I'm putting the recipes in the [manuscript folder](https://github.com/HBurgiel/Turnip-Report/tree/main/manuscript) in this repository.
+
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
