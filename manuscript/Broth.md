@@ -1,4 +1,4 @@
-I like to save things like kale and broccoli stems to make into broth. It's also a really good way to use up things like parsnips and turnips. (But not uncooked rice -- ask me how I know!) 
+I like to chop and freeze things like kale and broccoli stems to make into broth. It's also a really good way to use up things like parsnips and turnips. (But not uncooked rice -- ask me how I know!) 
 When I was first learning to make broth, I learned that adding salt improves the flavor and that using too much of a single ingredient is detrimental to the flavor. 
 I generally don't add salt; I can do that when I make the soup.
 
