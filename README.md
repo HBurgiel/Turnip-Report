@@ -8,7 +8,7 @@ This work is licensed under a
 
 # About this book
 
-In a perfect world, I'd subsist primarily on hot chocolate, cheese pizza, and orange soda. This doesn't work in practice, so I've gamified my nutritional choice-making by subscribing to a farmshare. This works well for me because I'm a vegetarian, I enjoy figuring out what to do with ingredients, I'm an experienced cook, and I hate wasting food.
+In a perfect world I'd subsist primarily on hot chocolate, cheese pizza, and orange soda. This doesn't work in practice, so I've gamified my nutritional choice-making by subscribing to a farmshare. This works well for me because I'm a vegetarian, I enjoy figuring out what to do with ingredients, I'm an experienced cook, and I hate wasting food.
 
 There are very few actual turnip recipes in the book. The title dates back to the year I subscribed for a winter produce share; hilarity ensued. I reserve the right to change the title if I think of a better one.
 
