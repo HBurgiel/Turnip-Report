@@ -31,7 +31,7 @@ add chopped radish (or other) greens, if desired
 
 microwave for 2 or 1 minutes
 
-##Stir in
+## Stir in
 1/2 brick cream cheese
 
 1/2 c feta cheese
