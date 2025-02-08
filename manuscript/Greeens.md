@@ -7,7 +7,7 @@ Freeze, then use as an ingredient in saag paneer or mostaciolli al forno.
 
 # Saag Paneer
 Based on: http://allrecipes.com/recipe/authentic-saag-paneer/
- 
+
 I use kale in this recipe. If you're using a milder green you can get away with swapping out the cream for yoghurt, but I won't do that with kale. 
 Puree and freeze the kale, then prepare this any time. Paneer freezes well too.
  
