@@ -1,8 +1,8 @@
 # Minced Greens
 Freeze, then use as an ingredient in saag paneer or mostaciolli al forno.
 
-- Microwave for 3 minutes and puree/mince in food processor
-  - Large bunch kale with stems removed, or other greens
+- Microwave for 5 minutes and puree/mince in food processor
+  - Large bunch kale with stems removed; fewer minutes for other greens
 - Freeze
 
 # Saag Paneer
