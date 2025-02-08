@@ -2,7 +2,9 @@
 Freeze, then use as an ingredient in saag paneer or mostaciolli al forno.
 
 - Microwave for 5 minutes and puree/mince in food processor
+  - 1/4 c water
   - Large bunch kale with stems removed; fewer minutes for other greens
+- Drain, optinally reserving liquid for broth
 - Freeze
 
 # Saag Paneer
