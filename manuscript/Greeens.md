@@ -21,6 +21,7 @@ Puree and freeze the kale, then prepare this any time. Paneer freezes well too.
   - 1 teaspoon squeeze ginger
   - 3 cloves garlic, mince
 - Add
+  - 2-3 cups minced greens
   - 1 small can diced tomatoes (if using fresh tomatoes, cook until they break down before adding the rest of the ingredients)
   - 2 teaspoons garam masala
   - 1/2 teaspoon ground turmeric
