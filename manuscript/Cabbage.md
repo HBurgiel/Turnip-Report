@@ -1,14 +1,14 @@
 # Ethiopian Cabbage and Carrots
 Based on http://allrecipes.com/recipe/ethiopian-cabbage-dish/
 
+- Sautee
+   - 1/4 c olive oil
+   - 1 medium onion
 - Dice and microwave for 5 minutes
    - 4 large carrots
-   - 1 medium onion
    - 1/2 medium head cabbage
    - 2 large potatoes
-- Sautee in
-   - 1/3 c olive oil
-- Add
+- Stir together along with
   - 3/4 t salt
   - 1/2 t pepper
   - 1/2 t cumin
