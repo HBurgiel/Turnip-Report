@@ -7,3 +7,4 @@ Here are some of the sources I used to create this book:
 * [Vegetarian Red Borscht](https://cooking.nytimes.com/recipes/1019972-vegetarian-red-borscht)
 * [Mild Saag Paneer](http://allrecipes.com/recipe/authentic-saag-paneer/)
 * [Ethiopian Cabbage Dish](http://allrecipes.com/recipe/ethiopian-cabbage-dish/)
+* [http://www.seedsofknowledge.com/squash.html](http://www.seedsofknowledge.com/squash.html)
