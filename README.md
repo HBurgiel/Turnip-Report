@@ -2,7 +2,7 @@
 Open source vegetarian cookbook centering produce local to New England
 
 This work is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa]. The code to generate this book was copied from [The Javascript Way](https://github.com/thejsway/thejsway/blob/master/README.md), Copyright © 2017-present by Baptiste Pesquet.
 
 # About this book
 
