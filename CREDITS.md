@@ -8,3 +8,5 @@ Here are some of the sources I used to create this book:
 * [Mild Saag Paneer](http://allrecipes.com/recipe/authentic-saag-paneer/)
 * [Ethiopian Cabbage Dish](http://allrecipes.com/recipe/ethiopian-cabbage-dish/)
 * [http://www.seedsofknowledge.com/squash.html](http://www.seedsofknowledge.com/squash.html)
+* http://allrecipes.com/recipe/pumpkin-gingerbread/
+* [Chocolate Beet Tea Loaf](https://thelunacafe.com/heavenly-chocolate-beet-tea-loaf/), by The Luna Cafe
