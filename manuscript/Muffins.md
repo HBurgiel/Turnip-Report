@@ -78,5 +78,6 @@ My notes say this originated with http://allrecipes.com/recipe/pumpkin-gingerbre
  
 - Bake in ~18 muffin tins for 18 minutes at 350F, until stabbing it with a toothpick comes out clean.
 
-
+# Kale muffins
+I don't have this recipe handy right now, but it was based on Bread, Wine, Salt's [Collard Bread](https://breadwinesalt.blogspot.com/2010/09/collard-bread.html).
 
