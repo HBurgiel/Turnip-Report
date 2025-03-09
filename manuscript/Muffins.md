@@ -28,6 +28,33 @@ the flavor profile of the beets takes some effort to balance. Luckily, I found [
 
 - Bake in ~18 muffin tins at 350F for 20 minutes or until stabbing it with a toothpick comes out clean.
 
+# Carrot fruit muffins
+Based on http://allrecipes.com//Recipe/carrot-fruit-ring-2/Detail.aspx
+ 
+- Mix together:
+  - 1 c. brown sugar
+  - 1/2 c. vegetable oil
+  - 2 eggs
+  - 1 1/2 c. grated carrots (~5 med/small)
+ 
+- Dump gently on top of liquids and stir together carefully
+  - 1 1/4 c. flour
+  - 1 t baking powder
+  - 1/2 t baking soda
+  - 1 t cinnamon
+  - 1/2 t salt
+  - pinch cardamom
+ 
+- Stir in:
+  - 1/2 c raisins
+  - 1/2 c mixed dried fruit
+  - 1/2 c chopped, pitted dates (~5)
+  - 1/2 c chopped wanuts
+  - 1/4 c flour
+ 
+- Bake in a greased loaf pan for 1:15 at 325 or muffin tins for 20 minutes.
+
+
 # Pumpkin muffins
 Based on a recipe from J's mother.
 
