@@ -11,3 +11,4 @@ Here are some of the sources I used to create this book:
 * http://allrecipes.com/recipe/pumpkin-gingerbread/
 * [Chocolate Beet Tea Loaf](https://thelunacafe.com/heavenly-chocolate-beet-tea-loaf/), by The Luna Cafe
 * [Collard Bread](https://breadwinesalt.blogspot.com/2010/09/collard-bread.html), by Bread, Wine, Salt
+* http://allrecipes.com//Recipe/carrot-fruit-ring-2/Detail.aspx
