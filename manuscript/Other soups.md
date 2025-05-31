@@ -20,3 +20,22 @@ Makes lots of servings. Ingredients are generally diced.
   - 1 T vinegar
   - 1 T tomato paste (optional)
 - Bring to a boil then cook on low heat until kale is soft (30 min?) Season with salt and pepper and serve with sour cream (optional). 
+
+# Lentil Chili
+Based on a recipe by Carol Hahner. For free recipes write to:  The Idaho-Washington Pea & Lentil Commissions, P.O. Box 8566 Moscow, Idaho 83843
+
+Lentils aren't local but they make good cheap food. You can use red lentils, but they cook down to mush.
+
+- Boil
+  - 5 c water
+- Add
+  - 1 tsp. salt
+  - 2 1/3 c (1 lb) brown lentils, washed
+- Simmer for 30 minutes
+- Add
+  -1 can tomatoes
+  - 1 pkg. dry onion soup mix
+  - 2 1/2 tsp. chili powder (or to taste)
+  - 1/2 tsp. cumin
+  - 1/4 tsp. cayenne pepper
+- Simmer 30 minutes more
