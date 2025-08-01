@@ -10,7 +10,7 @@ I don't have a good recipe for you. Here's what's in the breadbot now:
 * 2 t yeast
 
 # Pizza
-Following the instructions provided by [Forge Baking Co.]{https://www.forgebakingco.com/}
+Following the instructions provided by [Forge Baking Co.](https://www.forgebakingco.com/)
 
 Let the dough warm up, rest, and soften for at least an hour before baking.
 
