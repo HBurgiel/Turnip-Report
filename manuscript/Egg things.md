@@ -14,7 +14,7 @@ I don't know how to roll out a pie crust without making a huge mess, and I'm not
 
 - Beat in 3 eggs
 
-- Bake 40-45 minutes at 350 degrees in a buttered pie plate until a knife inserted comes out clean. Serve hot, or cold with ketchup..
+- Bake 40-45 minutes at 350 degrees in a buttered pie plate until a knife inserted comes out clean. Serve hot, or cold with ketchup.
 
 # Radish Custard
 
