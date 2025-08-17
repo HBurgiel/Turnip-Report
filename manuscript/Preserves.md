@@ -26,8 +26,27 @@ Wash and chop:
 - 1/2 lemon, including peel
 
 Stir in:
+- 1/4 c raisins
 - 3/4 c sugar
 - 2 T pectin
 - dash of cloves
 
 Cook until it's jam, then put in jars. I'm totally winging it with the jars and the sterilizing and the boiling it after -- maybe there are instructions included with your jars? Also, make sure to wipe all the goo off the rim of the jar before you put the seal of the lid on it.
+
+# Green Tomato Chutney
+I love this stuff. Eat it on English muffins with a slice of American cheese! Based on a recipe from [Lovely Greens](https://lovelygreens.com/spicy-green-tomato-chutney/).
+
+Chop and combine in cook pot:
+- 1 kg green tomatoes
+- 1 large red onion
+- 1 c raisins
+- 3 garlic cloves
+
+Stir in:
+- 1/4 tsp cayenne pepper or one fresh cayenne pepper
+-  1/4 tsp black pepper
+-  2 tsp kosher salt
+-  2 c brown sugar
+-  2 3/4 c malt vinegar
+
+Bring to a boil. Cook ~2 hours until it's thick and brown. Can.
