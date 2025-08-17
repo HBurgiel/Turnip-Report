@@ -14,3 +14,4 @@ Here are some of the sources I used to create this book:
 * http://allrecipes.com//Recipe/carrot-fruit-ring-2/Detail.aspx
 * Pizza, by [Forge Baking Co.](https://www.forgebakingco.com/)
 * [Rose Hip Jelly](https://www.simplyrecipes.com/recipes/rose_hip_jelly/), by Elise Bauer
+* [Easy Green Tomato Chutney Recipe](https://lovelygreens.com/spicy-green-tomato-chutney/), by Tanya Anderson of Lovely Greens
