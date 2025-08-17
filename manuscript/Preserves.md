@@ -23,7 +23,7 @@ My mother made something she called "plum gumbo". I don't know if I ever had the
 
 Wash and chop:
 - 2 c tart plums
-- 1/2 lemon, including peel
+- 1/4 lemon, including peel (optional -- maybe add more pectin if you leave this out)
 
 Stir in:
 - 1/4 c raisins
