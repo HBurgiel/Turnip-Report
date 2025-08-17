@@ -19,7 +19,7 @@ Boil:
 - 3 1/2 c sugar
 
 # Plum Jam
-My mother made something she called "plum gumbo". I don't know if I ever had the recipe, and I've long since forogtten whether it actually included walnuts. Here's what's currently in the breadbot:
+My mother made something she called "plum gumbo". I don't know if I ever had the recipe, and I've long since forogtten things like whether it actually included walnuts. Here's what's currently in the breadbot:
 
 Wash and chop:
 - 2 c tart plums
