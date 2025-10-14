@@ -20,7 +20,7 @@ Try altering the amount of cream cheese or cayenne.
 
 # Very Creamy Potato Cheese Soup
 
-Based on a recipe in [_New Recipes from Moosewood Restaurant_[(https://www.publishersweekly.com/9780898152081).
+Based on a recipe in [_New Recipes from Moosewood Restaurant_](https://www.publishersweekly.com/9780898152081).
 
 - Sautee until tender
   - Medium onion, chopped
