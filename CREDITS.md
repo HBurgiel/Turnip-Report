@@ -13,6 +13,7 @@ Here are some of the sources I used to create this book:
 * [Chocolate Beet Tea Loaf](https://thelunacafe.com/heavenly-chocolate-beet-tea-loaf/), by The Luna Cafe
 * [Collard Bread](https://breadwinesalt.blogspot.com/2010/09/collard-bread.html), by Bread, Wine, Salt
 * http://allrecipes.com//Recipe/carrot-fruit-ring-2/Detail.aspx
+* [_New Recipes from Moosewood Restaurant_[(https://www.publishersweekly.com/9780898152081)
 * Pizza, by [Forge Baking Co.](https://www.forgebakingco.com/)
 * [Rose Hip Jelly](https://www.simplyrecipes.com/recipes/rose_hip_jelly/), by Elise Bauer
 * [Easy Green Tomato Chutney Recipe](https://lovelygreens.com/spicy-green-tomato-chutney/), by Tanya Anderson of Lovely Greens
