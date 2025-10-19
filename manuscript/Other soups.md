@@ -24,7 +24,7 @@ Makes lots of servings. Ingredients are generally diced.
 # Lentil Chili
 Based on a recipe by Carol Hahner. For free recipes write to:  The Idaho-Washington Pea & Lentil Commissions, P.O. Box 8566 Moscow, Idaho 83843
 
-Lentils aren't local but they make good cheap food. You can use red lentils, but they cook down to mush.
+Lentils aren't local but they're cheap and easy to store. Mix in some red lentils for a smoother texture.
 
 - Boil
   - 5 c water
