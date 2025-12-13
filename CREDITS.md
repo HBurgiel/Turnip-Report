@@ -16,5 +16,6 @@ Here are some of the sources I used to create this book:
 * [_New Recipes from Moosewood Restaurant_](https://www.publishersweekly.com/9780898152081)
 * Pizza, by [Forge Baking Co.](https://www.forgebakingco.com/)
 * [Rose Hip Jelly](https://www.simplyrecipes.com/recipes/rose_hip_jelly/), by Elise Bauer
+* [Savory Bread Pudding {with Roasted Butternut Squash, Onion & Sage}](http://www.lemonythyme.com/savory-bread-pudding-with-roasted-butternut-squash-onion-sage/), by Libby with Lemony Thyme
 * [_The Tao of Cooking_](https://www.barnesandnoble.com/w/the-tao-of-cooking-sally-pasley/1103134453)
 * [Easy Green Tomato Chutney Recipe](https://lovelygreens.com/spicy-green-tomato-chutney/), by Tanya Anderson of Lovely Greens
