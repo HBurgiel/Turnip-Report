@@ -1,3 +1,42 @@
+# Buttermilk Bread
+
+If you have actual buttermilk, you can follow the original recipe from [My Country Table](https://mycountrytable.com/buttermilk-bread/), or use this as a guide to shrink it down to work in your breadbot.
+
+Add to the breadbot pan:
+* 2 T butter
+* 1 1/3c water
+
+Float on top:
+* 3 1/2c flour
+* 1 1/2 t salt
+* 2 T sugar
+* 2 1/2 T buttermilk powder
+
+Make a dry divot in the flour to hold:
+* 2 t yeast
+
+Bake on medium or dark crust to get a soft, savory loaf.
+
+# Tomato Bread
+
+Adapted from [The Bread Lover's Bread Machine Cookbook](https://archive.org/details/breadloversbread0000hens), p. 346. Makes a 1.5 pound loaf.
+
+Put in the breadbot pan:
+* 8 oz tomato juice
+* 1/3 c chopped oil-packed sun dried tomatoes in their oil
+* Enough water to bring the total liquid to 1 3/4 c.
+ 
+Layer on top:
+* 2 1/4 c white flour
+* 1 c whole wheat flour
+* 1 1/2 T gluten (optional)
+* 1 1/2 t salt
+
+Make a dry divot in the flour to hold:
+* 2 1/2 t yeast
+ 
+Bake on medium or dark crust, basic cycle. This bread is more hearty than savory, and good with cheeses.
+
 # Pizza Dough
 I don't have a good recipe for you. Here's what's in the breadbot now:
 
