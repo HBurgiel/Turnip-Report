@@ -1,6 +1,6 @@
 Here are some of the sources I used to create this book:
 
-* [The Bread Lover's Bread Machine Cookbook](https://archive.org/details/breadloversbread0000hens)
+* [_The Bread Lover's Bread Machine Cookbook_](https://archive.org/details/breadloversbread0000hens)
 * [Buttermilk Bread](https://mycountrytable.com/buttermilk-bread/), by Cindy at My Country Table
 * [Butternut Squash Soup with Cream Cheese](http://allrecipes.com/recipe/butternut-squash-soup/), by Mary
 * [How to launch your own open source book that’s popular and profitable](https://www.freecodecamp.org/news/taking-off-the-successful-launch-of-an-open-source-book-7553a2262898/), by Baptiste Pesquet
