@@ -1,7 +1,7 @@
-site_name: The JavaScript Way
-site_description: A gentle introduction to an essential language
-site_author: Baptiste Pesquet
-repo_url: https://github.com/thejsway/thejsway
+site_name: Turnip-Report
+site_description: Open source vegetarian cookbook centering produce local to New England
+site_author: Heidi Burgiel
+repo_url: https://github.com/HBurgiel/Turnip-Report
 docs_dir: manuscript
 
 nav:
