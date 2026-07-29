@@ -68,3 +68,21 @@ The flavor profile is foreign, but this is a great way to use up excess carrots!
 
 My mother picked up this recipe at my elementary school. Very tasty because lots of fat.
 
+- Cream together
+ - 1 c butter
+ - 2 c brown sugar
+
+- Mix in
+ - 2 eggs
+
+- Gently add and stir
+ - 2 c flour
+ - 2 c oats
+ - 1 t baking soda
+ - 1 t salt
+
+- Stir in
+ - 1 c raisins
+
+- Drop by spoonfuls onto cookie sheet; bake at 375 degrees for 10-12 minutes.
+
