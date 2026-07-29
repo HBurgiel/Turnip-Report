@@ -2,6 +2,7 @@ Here are some of the sources I used to create this book:
 
 * [_The Bread Lover's Bread Machine Cookbook_](https://archive.org/details/breadloversbread0000hens)
 * [Buttermilk Bread](https://mycountrytable.com/buttermilk-bread/), by Cindy at My Country Table
+* [Brazilian Carrot Cake](https://www.oliviascuisine.com/brazilian-carrot-cake/) by Olivia Mesquita
 * [Butternut Squash Soup with Cream Cheese](http://allrecipes.com/recipe/butternut-squash-soup/), by Mary
 * [Easy Apple Crisp With Oat Topping](https://www.allrecipes.com/recipe/229088/apple-crisp-with-oat-topping/) by realnakedchef at Allrecipes
 * [Cheesy Zucchini Casserole](https://www.allrecipes.com/recipe/20867/cheesy-zucchini-casserole-i/) by DC1 at Allrecipes
