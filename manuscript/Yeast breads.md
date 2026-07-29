@@ -39,6 +39,24 @@ Make a dry divot in the flour to hold:
  
 Bake on medium or dark crust, basic cycle. This bread is more hearty than savory, and good with cheeses.
 
+# Grilled Cheese Bread
+
+This is based on the yoghurt wheat brea recipe in the West Bend bread maker manual, and is perfect for making grilled cheese sandwiches.
+
+- Combine
+ - 1 c water
+ - 3/4 c yoghurt
+ - 2 T butter
+
+- Add
+ - 2 c flour
+ - 2 1/4 c while wheat flour
+ - 2 T powdered milk
+ - 1 1/4 t salt
+ - 2 t yeast
+   
+- Bake on whole wheat setting.
+
 # Pizza Dough
 I don't have a good recipe for you. Here's what's in the breadbot now:
 
