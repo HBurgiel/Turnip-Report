@@ -1,3 +1,5 @@
+I'm not a big sandwich person, but I've grown very fond of my bread machine. If you're in a similar state, check out the chapter on bread puddings!
+
 # Buttermilk Bread
 
 If you have actual buttermilk, you can follow the original recipe from [My Country Table](https://mycountrytable.com/buttermilk-bread/), or use this as a guide to shrink it down to work in your breadbot.
