@@ -24,3 +24,4 @@ Here are some of the sources I used to create this book:
 * [Savory Bread Pudding {with Roasted Butternut Squash, Onion & Sage}](http://www.lemonythyme.com/savory-bread-pudding-with-roasted-butternut-squash-onion-sage/), by Libby with Lemony Thyme
 * [_The Tao of Cooking_](https://www.barnesandnoble.com/w/the-tao-of-cooking-sally-pasley/1103134453)
 * [Easy Green Tomato Chutney Recipe](https://lovelygreens.com/spicy-green-tomato-chutney/), by Tanya Anderson of Lovely Greens
+* Yoghurt Wheat Bread, from the West Bend bread machine [user manual])https://westbend.com/pages/user-manuals?srsltid=AfmBOoovokVWrMH1AEdeZyIm6sGRvpsrzqlIeHavNitwP3gGQ6UyeB0U)
