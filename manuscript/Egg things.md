@@ -57,3 +57,28 @@ Based on the [recipe on Libby's canned pumpkin](https://www.verybestbaking.com/l
   - 1 can (12 fl. oz.) evaporated milk
 
 - Pour into greased pieplate and bake in preheated 425° F oven for 15 minutes. Reduce temperature to 350° F; bake for 40 to 50 minutes or until knife inserted near center comes out clean. Cool on wire rack. Serve immediately or refrigerate.
+
+# Wikileek
+
+I blame Douglas.
+
+- Combine
+ - 1 leek, sliced
+ - 1 large potato, cubed
+ - 1/2 a cayenne pepper, chopped fine
+ - 1/2 c milk
+
+- Microwave for 3.5 minutes
+
+- Add
+ - 1/2 bunch wilted arugula (because you're not going to eat it in a salad)
+ - 1/2 t salt
+ - 1 t dried parsley
+
+- Stir in
+ - 4 oz cream cheese
+ - 1/2 c milk
+ - 1/2 c grated cheddar
+ - 3 eggs
+
+- Bake in a ceramic pie plate at 350 for 40 minutes or until a knife inserted comes out clean.
